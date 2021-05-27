@@ -1,10 +1,11 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fliyusang1&count_bg=%2379C83D&title_bg=%23555555&icon=datadog.svg&icon_color=%23FAFFFE&title=Hello!&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![liyusang1's stats](https://github-readme-stats.vercel.app/api?username=liyusang1&show_icons=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+[![liyusang1's stats](https://github-readme-stats.vercel.app/api?username=liyusang1&show_icons=true&hide=issues&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **liyusang1/liyusang1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![liyusang1's stats](https://github-readme-stats.vercel.app/api?username=liyusang1&show_icons=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liyusang1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 Here are some ideas to get you started:
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=liyusang1&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
