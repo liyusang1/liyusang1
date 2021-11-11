@@ -18,7 +18,6 @@
 <br>
 <br>
 
-- 🌱 I’m currently learning Docker and Spring
 - 📫 liyusang799@gmail.com
 
 
