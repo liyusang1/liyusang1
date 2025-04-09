@@ -1,8 +1,6 @@
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fliyusang1&count_bg=%2379C83D&title_bg=%23555555&icon=datadog.svg&icon_color=%23FAFFFE&title=Hello!&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ## 👋 Hello I’m Lee yusang 
+
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 <a href="https://instagram.com/liyusang1">
     <img 
