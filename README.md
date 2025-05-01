@@ -2,11 +2,14 @@
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
+<!--
 <a href="https://instagram.com/liyusang1">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a> 
+-->
+
 <a href="https://yusang.tistory.com/">
     <img 
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr"
